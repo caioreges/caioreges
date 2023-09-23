@@ -1,9 +1,5 @@
-//This line represents that i'm gonna say something important about me. Watch:
+My propose is to resolve business problems using web systems.
 
-dict (whoAmI) {
-set codingKnowledge = 0 int
-set englishLevel = 3 int
-set curiosityLevel = 10 int
-}
+Techs: HTML, CSS, Javascript (at the moment).
 
-//That's it!
+Right now focused in Landing Pages with functions that improve user's interation with her/his problem, and then propose and CTA.
