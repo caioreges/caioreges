@@ -1,4 +1,4 @@
-My propose is to resolve business problems using web systems.
+My purpose is to resolve business problems using web systems.
 
 Techs: HTML, CSS, Javascript (at the moment).
 
