@@ -1,5 +1,11 @@
-My purpose is to resolve business problems using web systems.
+Fullstack Jr.
 
-Techs: HTML, CSS, Javascript (at the moment).
+React | NodeJS | MariaDB | MongoDB | GCP | Business Management
 
-Right now focused in Landing Page development with functions that improve user's interation with the product.
+This profile is used only to store personal projects. Portfolio can be accessed through my LinkedIn.
+
+Public projects over here are functional and can be used _mettez-vous à l'aise_ .
+
+I work in business area, developing solutions to make companies have more efficiency and improved KPIs.
+
+I like this philosofy: **Numbers don't lie, they tell true histories, you just need to learn how to read them.**
