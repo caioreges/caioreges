@@ -1,6 +1,7 @@
 # Dev Full-Stack Jr.
 ## Tech Stack: React | Node.js | MariaDB | AWS S3 | BullMQ + Redis | GCP | Business Management
-AI
+
+# AI
 
 ### I can proudly say I got into software development at the right time.
 
